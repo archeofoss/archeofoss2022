@@ -1,8 +1,8 @@
 # ArcheoFOSS 2022: the official repository for the review of panel and paper proposals
 
-This repository has been created to take care of the evaluation and review process of the panel and paper proposals for ArcheoFOSS 2020 conference to be held in Rome, on 22-24 September.
+This repository has been created to take care of the evaluation and review process of the panel and paper proposals for ArcheoFOSS 2022 conference to be held in Rome, on 22-24 September.
 
-The 2020 edition introdudes the important novelty of an open review of both panel and paper proposal. Reviews will use [GitHub Discussions](https://github.com/archeofoss/af2022/discussions).
+The 2022 edition introdudes the important novelty of an open review of both panel and paper proposal. Reviews will use [GitHub Discussions](https://github.com/archeofoss/af2022/discussions).
 
 On each proposal submit, a new discussion will be added, its link will be added at the botttom of this document and community members are invited at openly commenting, reviewing, evaluating.
 
