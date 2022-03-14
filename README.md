@@ -13,4 +13,8 @@ This README file will be updated with the list of the available proposal, each p
 ## Panel proposals available for review
 - [Maps to the past. Open digital approaches to the investigation of historical maps.](https://github.com/archeofoss/archeofoss2022/discussions/1)  
 by Julian Bogdani and Valeria Vitale.  
-Submitted on **08/03/2022**
+Submitted on **08/03/2022**  
+- [Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
+.](https://github.com/archeofoss/archeofoss2022/discussions/3)  
+by Domizia D'Erasmo and Noemi Giovino.  
+Submitted on **14/03/2022**
