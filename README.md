@@ -20,3 +20,6 @@ Submitted on **14/03/2022**
 1. [[i/]O: programmatic output strategies, protocols and best practices for archaeological information systems: towards an open paradigm of archaeological data management and analysis.](https://github.com/archeofoss/archeofoss2022/discussions/4)  
 by Julian Bogdani and Riccardo Montalbano.  
 Submitted on **18/03/2022**
+1. [GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.](https://github.com/archeofoss/archeofoss2022/discussions/5)  
+by Enzo Cocca and Gianluca Martinez  
+Submitted on **29/03/2022**
