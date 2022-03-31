@@ -23,3 +23,6 @@ Submitted on **18/03/2022**
 1. [GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.](https://github.com/archeofoss/archeofoss2022/discussions/5)  
 by Enzo Cocca and Gianluca Martinez  
 Submitted on **29/03/2022**
+1. [Electronic Publishing and Open Science in Archaeology.](https://github.com/archeofoss/archeofoss2022/discussions/6)  
+by Alessandra Caravale and Alessandra Piergrossi  
+Submitted on **31/03/2022**
