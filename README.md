@@ -26,3 +26,6 @@ Submitted on **29/03/2022**
 1. [Electronic Publishing and Open Science in Archaeology.](https://github.com/archeofoss/archeofoss2022/discussions/6)  
 by Alessandra Caravale and Alessandra Piergrossi  
 Submitted on **31/03/2022**
+1. [Practice and Paradigms of Open Source Technologies for Archaeological Field Data.](https://github.com/archeofoss/archeofoss2022/discussions/7)  
+by Fabian Riebschläger and Thomas Kleinke  
+Submitted on **1/04/2022**
