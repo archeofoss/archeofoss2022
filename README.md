@@ -32,3 +32,6 @@ Submitted on **1/04/2022**
 1. [Archaeological stratigraphy data.](https://github.com/archeofoss/archeofoss2022/discussions/8)  
 by Stefano Costa and Emanuel Demetrescu   
 Submitted on **14/04/2022**
+1. [From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact](https://github.com/archeofoss/archeofoss2022/discussions/9).  
+by Saverio Giulio Malatesta and Paolo Rosati  
+Submitted on **14/04/2022**
