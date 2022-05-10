@@ -17,7 +17,7 @@ Submitted on **08/03/2022**
 1. [Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity.](https://github.com/archeofoss/archeofoss2022/discussions/3)  
 by Domizia D'Erasmo and Noemi Giovino.  
 Submitted on **14/03/2022**
-1. [[i/]O: programmatic output strategies, protocols and best practices for archaeological information systems: towards an open paradigm of archaeological data management and analysis.](https://github.com/archeofoss/archeofoss2022/discussions/4)  
+1. [[i/]O: ethics, policies and technologies for programmatic and open access to archaeological online data sets.](https://github.com/archeofoss/archeofoss2022/discussions/4)  
 by Julian Bogdani and Riccardo Montalbano.  
 Submitted on **18/03/2022**
 1. [GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.](https://github.com/archeofoss/archeofoss2022/discussions/5)  
