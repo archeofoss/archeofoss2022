@@ -1,5 +1,5 @@
 *Please save in this directory paper proposals for the panel:  
-**Maps to the past. Open digital approaches to the investigation of historical maps**.*
+**Panel 1: Maps to the past. Open digital approaches to the investigation of historical maps**.*
 
 Remember to use the [provided template](https://github.com/archeofoss/archeofoss2022/blob/main/paper-proposal-template.md) to submit your proposal, 
 and eventually upload the illustrative image in the same directory and name it after your markdown file.
