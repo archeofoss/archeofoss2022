@@ -1,4 +1,4 @@
-*Plase submit each proposal as a Markdown file (\*.md extension) and name it in kebab-case using the family names of the proponents, eg. bogdani-vitale.md*
+*Please submit each proposal as a Markdown file (\*.md extension) and name it in kebab-case using the family names of the proponents, eg. bogdani-vitale.md*
 
 ---
 
@@ -14,7 +14,7 @@ Provide here as paragraph the name of the selected panel. The full list is avail
 
 **Authors**
 
-Provide an unordered list of the full name of the authors, their afiliations, their institutional email addresses, Twitetr/Facebook contacts, eg.
+Provide an unordered list of the full name of the authors, their affiliations, their institutional email addresses, Twitter/Facebook contacts, eg.
 - **Julian Bogdani**
   - Sapienza University of Rome, Rome
   - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
@@ -27,7 +27,7 @@ Provide an unordered list of the full name of the authors, their afiliations, th
 
 **Proposal text**
 
-Use up to 3000 characters to describe your proposal, cleary stating the openness of the approach.
+Use up to 3000 characters to describe your proposal, clearly stating the openness of the approach.
 
 
 **Illustrative image**
