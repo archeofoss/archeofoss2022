@@ -1,4 +1,5 @@
-*Please submit each proposal as a Markdown file (\*.md extension) and name it in kebab-case using the family names of the proponents, eg. bogdani-vitale.md*
+*Please submit each proposal as a Markdown file (\*.md extension) and name it in kebab-case using the family names of the proponents, eg. bogdani-vitale.md  
+Save markdown files in the directory named after each panel and eventually upload in the same location the illustrative image; plase name it after your markdown file, eg. bogdani-vitale.jpg.*
 
 ---
 
