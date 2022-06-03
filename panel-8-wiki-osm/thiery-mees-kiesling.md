@@ -43,7 +43,7 @@ Samian Research is, compared to other domain-specific database projects, very op
 
 **Illustrative image**
 
-<center><img src="https://github.com/archeofoss/archeofoss2022/raw/master/panel-8-wiki-osm/thiery-mees-kiesling.png" width="400"></center>
+<center><img src="https://raw.githubusercontent.com/archeofoss/archeofoss2022/main/panel-8-wiki-osm/thiery-mees-kiesling.png" width="400"></center>
 
 Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service by <https://w.wiki/5BRk> and <https://w.wiki/4pKz> on 19/05/2022. CC0 (Public Domain), Wikidata Community, Wikimedia Foundation.
 
