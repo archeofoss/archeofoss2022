@@ -4,7 +4,7 @@
 Panel 2. Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
 
 
-- **Gabriele Ciccone*
+- **Gabriele Ciccone**
   - Dipartimento di Storia, Patrimonio Culturale, Formazione e Società. Università di Roma Tor Vergata
   - [cccgrl01@uniroma2.it](mailto:cccgrl01@uniroma2.it)
   - [@ArchaeoDrones](https://www.instagram.com/archaeodrones/)
