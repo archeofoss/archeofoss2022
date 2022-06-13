@@ -1,5 +1,5 @@
 # Geographical web storage mapping proposal
----
+
 Panel1: Maps to the past. Open digital approaches to the investigation of historical maps
 
 - Sandra Leonardi
