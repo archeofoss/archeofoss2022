@@ -12,20 +12,20 @@ Practice and Paradigms of Open Source Technologies for Archaeological Field Data
 
 - **Benjamin Ducke**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [benjamin.ducke@dains.de](mailto:benjamin.ducke@dains.de)
+  - [benjamin.ducke@dainst.de](mailto:benjamin.ducke@dainst.de)
 - **Simon Hohl**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [simon.hohl@dains.de](mailto:simon.hohl@dains.de)
+  - [simon.hohl@dainst.de](mailto:simon.hohl@dainst.de)
 - **Thomas Kleinke**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [thomas.kleinke@dains.de](mailto:thomas.kleinke@dains.de)
+  - [thomas.kleinke@dainst.de](mailto:thomas.kleinke@dainst.de)
 - **Fabian Riebschläger**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [fabian.riebschlaeger@dains.de](mailto:fabian.riebschlaeger@dains.de)
+  - [fabian.riebschlaeger@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
   - [@friebsch](https://twitter.com/friebsch)
 - **Juliane Watson**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [juliane.watson@dains.de](mailto:fabian.riebschlaeger@dains.de)
+  - [juliane.watson@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
 
 
 **Proposal text**
@@ -40,9 +40,9 @@ This results in a whole range of requirements that software for field data recor
 
 It should also be possible to publish primary research data, together with the research results (narrative), with minimal additional effort, and in accordance with the requirements of the international research community and the funding providers.
 
-An initial version of a unified field recording system for the DAI ([iDAI.field](https://github.com/dainst/idai-field)) was based on the proprietary software Filemaker. This was used and modified by numerous projects at the DAI. However, systematic evaluation revealed severe problems in guaranteeing data quality and comparability as well as integration into existing workflows. Furthermore, the use of proprietary software, and its closed data formats, caused expensive problems with upgrades that broke backward compatibility.
+An initial version of a unified field recording system for the DAI was based on the proprietary software Filemaker. This was used and modified by numerous projects at the DAI. However, systematic evaluation revealed severe problems in guaranteeing data quality and comparability as well as integration into existing workflows. Furthermore, the use of proprietary software, and its closed data formats, caused expensive problems with upgrades that broke backward compatibility.
 
-For these reasons, the decision was made to design the new iDAI.field from scratch, relying exclusively on open source software and current Web technologies. The focus of the redesign was on enabling complete documentation of archaeological fieldwork, mapping existing workflows to the new software, and improving them through the use of customised digital technologies. This distinguishes iDAI.field from generic platforms, such as GIS or CAD.
+For these reasons, the decision was made to design the new iDAI.field ([iDAI.field](https://github.com/dainst/idai-field)) from scratch, relying exclusively on open source software and current Web technologies. The focus of the redesign was on enabling complete documentation of archaeological fieldwork, mapping existing workflows to the new software, and improving them through the use of customised digital technologies. This distinguishes iDAI.field from generic platforms, such as GIS or CAD.
 
 The individual roles of the software were split into separate components: a desktop application for on-site data entry, a server component for synchronisation via the Internet (or a local network) and a dynamic HTML report generator for publishing the primary data.
 
