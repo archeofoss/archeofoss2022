@@ -12,20 +12,20 @@ Practice and Paradigms of Open Source Technologies for Archaeological Field Data
 
 - **Benjamin Ducke**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [benjamin.ducke@dains.de](mailto:benjamin.ducke@dains.de)
+  - [benjamin.ducke@dains.de](mailto:benjamin.ducke@dainst.de)
 - **Simon Hohl**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [simon.hohl@dains.de](mailto:simon.hohl@dains.de)
+  - [simon.hohl@dains.de](mailto:simon.hohl@dainst.de)
 - **Thomas Kleinke**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [thomas.kleinke@dains.de](mailto:thomas.kleinke@dains.de)
+  - [thomas.kleinke@dains.de](mailto:thomas.kleinke@dainst.de)
 - **Fabian Riebschläger**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [fabian.riebschlaeger@dains.de](mailto:fabian.riebschlaeger@dains.de)
+  - [fabian.riebschlaeger@dains.de](mailto:fabian.riebschlaeger@dainst.de)
   - [@friebsch](https://twitter.com/friebsch)
 - **Juliane Watson**
   - Deutsches Archäologisches Institut, Berlin, Germany
-  - [juliane.watson@dains.de](mailto:fabian.riebschlaeger@dains.de)
+  - [juliane.watson@dains.de](mailto:fabian.riebschlaeger@dainst.de)
 
 
 **Proposal text**
