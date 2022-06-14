@@ -17,7 +17,7 @@ Provide an unordered list of the full name of the authors, their affiliations, t
 
 **Proposal text**
 
-Map warping and the analysis of the deformation of the represented world are tools 
+What is data used for? And why is it relevant to find a use for data? 
 
 **Illustrative image**
 
