@@ -1,6 +1,6 @@
 # Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt
 
-Maps to the past. Open digital approaches to the investigation of historical maps.
+Panel 1: Maps to the past. Open digital approaches to the investigation of historical maps.
 
 
 **Authors**
