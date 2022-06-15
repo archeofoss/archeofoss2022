@@ -1,6 +1,6 @@
 # An innovative digital system for the Lilibeo Archeological Museum roman sculptures enhancement
 
-Panel 7: Archaeological stratigraphy data
+**Panel 7**: Archaeological stratigraphy data
 
 - **Giulia Chellini**
   - Archeo&Arte3D, DigiLab - Sapienza University of Rome

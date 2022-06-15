@@ -1,14 +1,7 @@
-**Title of the proposal**
-
 # iDAI.field: Developing software for the documentation of archaeological fieldwork
 
 
-**Panel 6**
-
-Practice and Paradigms of Open Source Technologies for Archaeological Field Data
-
-
-**Authors**
+**Panel 6**. Practice and Paradigms of Open Source Technologies for Archaeological Field Data
 
 - **Benjamin Ducke**
   - Deutsches Archäologisches Institut, Berlin, Germany
@@ -27,8 +20,10 @@ Practice and Paradigms of Open Source Technologies for Archaeological Field Data
   - Deutsches Archäologisches Institut, Berlin, Germany
   - [juliane.watson@dainst.de](mailto:fabian.riebschlaeger@dainst.de)
 
+![Archaeological documentation with iDAI.field. Progetto Prile, Vetulonia by Camilla Colombi, CC BY 4.0](ducke-hohl-kleinke-riebschlaeger-watson.jpg)
 
-**Proposal text**
+*Archaeological documentation with iDAI.field. Progetto Prile, Vetulonia by Camilla Colombi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+
 
 The German Archaeological Institute (Deutsches Archäologisches Institut, DAI) conducts a variety of field research types, each with its own unique documentation requirements: Excavations, surveys and building recordings. The resulting differences are reflected in the workflows, the recording methods applied and the documentation produced. In addition, the DAI's international work has to comply with the guidelines of the respective heritage agencies in the host countries.
 
@@ -49,14 +44,8 @@ The individual roles of the software were split into separate components: a desk
 So far, the focus has been mainly on transferring already known, analogue documentation workflows into the digital application. In the future, it should also be evaluated whether and how the possibilities of using these digital technologies can improve those workflows in order to open up new knowledge discovery processes.
 
 
-**Illustrative image**
-
-![Archaeological documentation with iDAI.field. Progetto Prile, Vetulonia by Camilla Colombi, CC BY 4.0](idaifield-progetto_prile_colombi.jpg)
-
-Archaeological documentation with iDAI.field. Progetto Prile, Vetulonia by Camilla Colombi, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 
 **License**
 
-Text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-Image: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), Camilla Colombi
+- Text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), Copyright: Benjamin Ducke, Simon Hohl, Thomas Kleinke, Fabian Riebschläger, Juliane Watson 2022
+- Image: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), Copyright: Camilla Colombi 2022
