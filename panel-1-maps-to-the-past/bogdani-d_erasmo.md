@@ -15,8 +15,8 @@ Panel 1: Maps to the past. Open digital approaches to the investigation of histo
   - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
   - [domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it)
   - [@domizzzia](https://twitter.com/domizzzia)
-
-![Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt](./panel-1-maps-to-the-past/bogdani-d_erasmo.jpg)
+  - 
+![Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt](https://user-images.githubusercontent.com/39925492/173814688-030c0628-45e3-4777-aa56-e418ce9bcb95.jpeg)
 
 **Proposal text**
 
