@@ -1,10 +1,10 @@
 # Geographical web storage mapping proposal
 
-Panel1: Maps to the past. Open digital approaches to the investigation of historical maps
+**Panel 1**. Maps to the past. Open digital approaches to the investigation of historical maps
 
-- Sandra Leonardi
+- **Sandra Leonardi**
   - Dipartimento di Lettere e culture moderne, Sapienza Università di Roma
-  - sandra.leonardi@uniroma1.it
+  - [sandra.leonardi@uniroma1.it](mailto:sandra.leonardi@uniroma1.it)
 
 
 Among the activities of emergence, cataloging and enhancement in place for the

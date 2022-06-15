@@ -1,9 +1,6 @@
 # Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt
 
-Panel 1: Maps to the past. Open digital approaches to the investigation of historical maps.
-
-
-**Authors**
+**Panel 1**: Maps to the past. Open digital approaches to the investigation of historical maps.
 
 - **Julian Bogdani**
   - LAD, Sapienza University of Rome, Rome
@@ -15,10 +12,10 @@ Panel 1: Maps to the past. Open digital approaches to the investigation of histo
   - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
   - [domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it)
   - [@domizzzia](https://twitter.com/domizzzia)
-  - 
+
+
 ![Backward engineering historical maps: the case of 18th century gazetteer of the Napoleonic map of Egypt](https://user-images.githubusercontent.com/39925492/173814688-030c0628-45e3-4777-aa56-e418ce9bcb95.jpeg)
 
-**Proposal text**
 
 The _Carte Topographique de l'Égypte_ edited in 1818 by Pierre Jacotin, the chief cartographer of the 
 Napoleonic team of savants accompanying the ill-fated French invasion of Egypt is a fundamental historical 

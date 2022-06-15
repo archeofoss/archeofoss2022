@@ -1,7 +1,7 @@
 # From the Itinerarium Antonini and al-Idrisi to the movecost plug-in: study of the viability in the Castronovo di Sicilia area by comparing traditional sources and least-cost path analysis.
 
 
-Panel 2. Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
+**Panel 2**. Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
 
 
 - **Gabriele Ciccone**
@@ -52,4 +52,5 @@ took) and only indirectly of the other places.
 
 **License**
 
-Text: CC BY 4.0, © Gabriele Ciccone 2022; Image: CC BY-ND, © Gabriele Ciccone 2022
+- The text is release under CC BY 4.0 International license, copyright by Gabriele Ciccone 2022
+- The image is released under CC BY-ND 4.0 International license, © Gabriele Ciccone 2022
