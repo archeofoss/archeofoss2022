@@ -1,29 +1,20 @@
-**Title of the proposal**
+# Crossover! Digital Public History / Digital Archaeology / Virtual Roleplaying Games
 
-# Crossover episode - Digital Public History / Digital Archaeology / Virtual Roleplaying Games
+Electronic Publishing and Open Science in Archaeology.
 
-**Name of the selected panel**
-
-Maps to the past. Open digital approaches to the investigation of historical maps
-
-**Authors**
-
-Provide an unordered list of the full name of the authors, their affiliations, their institutional email addresses, Twitter/Facebook contacts, eg.
 - **Marco Montanari**
   - Open History Map, Bologna
   - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
   - [@ingmmo](https://twitter.com/ingmmo)
+  - [ORCID](https://orcid.org/0000-0001-5026-6083)
 
 
-**Proposal text**
+What is published data used for? And how do we make data relevant outside of DA? How do we make public history about a time that is so far in the past that it becomes complex to really grasp the meaning of "communication"? How do we make the world understandable to users that 
 
-What is data used for? And why is it relevant to find a use for data? 
+This presentation will cover FantasyMaps, a tool made using the infrastructure of OpenHistoryMap that maps out fantasy worlds, and its main and most appealing applicaiton, FoundryVTT OFM-Map-Canvas, a tool to have role players play in reconstructed fantasy worlds, modern day world or the world of the past, based (in the last case) on real archaeological and historical reconstructions. 
 
-**Illustrative image**
-
-If provided, provide here the name of the uploaded file, complete with copyright notice.
-
+This opens up new scenarios for Public History and Digital Public History experiences, where the participant becomes part of a more complex world and infrastructure.
 
 **License**
 
-Texts and images should be released under CC BY-ND or other equally or more permissive licenses. Provide here the exact license if different from CC BY-ND.
+This text is released with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Copyright Marco Montanari 2022.
