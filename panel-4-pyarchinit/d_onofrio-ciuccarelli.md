@@ -17,8 +17,6 @@ Panel 4: GIS open source solution for archaeological context in between Universi
 
 ![The urban context of the roman theater and “ex Filanda” in Fano (PU)](./d_onofrio-ciuccarelli.png)
 
-**Proposal text**
-
 This contribution will illustrate some of the main potential of the pyArchInit plugin, 
 an open source tool created in python language for the management and overall analysis of 
 archaeological data on a single georeferenced platform (QGIS). Through the display of a 
