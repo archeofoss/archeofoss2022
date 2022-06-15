@@ -22,6 +22,8 @@ All data, cleaned up, will finally be transformed into a set of files to be used
 - The gazetteer data is stored as CSV file and uploaded to World Historical Gazetteer
 - Every step of the process is documented via DOIs and their interconnections.
 
+The paper presents the tool and covers the process of gazetteer creation from a methodological point of view.
+
 **License**
 
 Texts and images are released under CC BY 4.0 International license.
