@@ -1,12 +1,6 @@
 # The urban context of the roman theater and “ex Filanda” in Fano (PU)
 
-
-**Name of the selected panel**
-
-Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
-
-
-**Authors**
+**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
 
 - **Annalisa d’Onofrio**
   - adArte Srl

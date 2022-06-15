@@ -1,6 +1,6 @@
 # pyArchInit at Poggio Gramignano Villa: a workflow between society and University through pyArchInit and Blender
 
-Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
+**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
 
 - **Luca Mandolesi**
   - adArte Srl

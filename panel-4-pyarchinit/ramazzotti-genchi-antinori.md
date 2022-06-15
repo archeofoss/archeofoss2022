@@ -1,9 +1,6 @@
 # MASPAG & Pyarchinit, the newborn collaboration of Sapienza and AdArte in the Sultanate of Oman
 
-Panel. 4. 4. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.2022/call-for-papers)
-
-
-**Authors**
+**Panel. 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.2022/call-for-papers)
 
 - **Marco Ramazzotti**
   - Sapienza University of Rome, Rome

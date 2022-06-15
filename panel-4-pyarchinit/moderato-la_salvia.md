@@ -1,6 +1,6 @@
 # Pyarchinit a Castelseprio: integrazione progressiva di un sistema di gestione integrata del dato di scavo
 
-Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case..
+**Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case..
 
 - **Marco Moderato**
   - DISPUTER, G.D'Annunzio University, Chieti
