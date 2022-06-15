@@ -48,3 +48,5 @@ research as it intersects with scientific research into dynamical
 systems. It also suggests that when we study landscape and movement,
 we need to move beyond predefined, planned network topologies and
 consider fluid, surprising, emergent forms of large-scale movement.
+
+License: CC-BY-ND
