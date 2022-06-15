@@ -3,13 +3,13 @@
 **Panel 1**. Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity
 
 - **Marco Montanari**
-  - Open History Map, Bologna
+  - Open History Map, Bologna, Italy
   - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
   - [@ingmmo](https://twitter.com/ingmmo)
 - **Lorenzo Gigli**
-  - Università di Bologna, Bologna
+  - Università di Bologna, Bologna, Italy
   - [lorenzo.gigli@unibo.it](mailto:lorenzo.gigli@unibo.it)
-  - [ORCID](https://orcid.org/0000-0001-9714-3777)
+  - ORCID: [0000-0001-9714-3777](https://orcid.org/0000-0001-9714-3777)
 
 
 Since 1290 regular movement between cities and towns became relevant, as Amodeo Tasso's Comagniia dei Corrieri started delivering post between Rome, Venice and Milan. For this reason and for more recent situations we starteda analyzing what could be transformed into GTFS from the various forms of the past. Trains have been moving on timetables since 1839, buses since 1829, ships with less regularity forever but regularly around 1850s. 

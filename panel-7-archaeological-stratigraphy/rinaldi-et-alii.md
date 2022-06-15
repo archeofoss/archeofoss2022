@@ -3,20 +3,17 @@
 
 **Panel 7**. Practice and Paradigms of Open Source Technologies for Archaeological Field Data.
 
-Provide here as paragraph the name of the selected panel. The full list is available at [https://archeofoss.org/2022/call-for-papers](https://archeofoss.org/2022/call-for-papers)
-
-
 - **Federica Rinaldi**
-  - Parco Archeologico del Colosseo
+  - Parco Archeologico del Colosseo, Rome, Italy
   - [federica.rinaldi@beniculturali.it](mailto:federica.rinaldi@beniculturali.it)
 - **Alessandro Lugari**
-  - Parco Archeologico del Colosseo
+  - Parco Archeologico del Colosseo, Rome, Italy
   - [alessandro.lugari@beniculturali.it](mailto:alessandro.lugari@beniculturali.it)
 - **Francesca Sposito**
-  - Consultant
+  - Free lance cconsultant, Rome, Italy
   - [francesca.sposito@gmail.com](mailto:francesca.sposito@gmail.com)
 - **Ascanio D'Andrea**
-  - Consultant
+  - Free lance consultant, Rome, Italy
   - [ascaniodandrea@gmail.com](mailto:ascaniodandrea@gmail.com)
 
 

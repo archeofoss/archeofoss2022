@@ -3,13 +3,13 @@
 **Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
 
 - **Mariflora Caruso**
-    - Archeo&Arte3D DigiLab, Sapienza University of Rome
+    - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
     - [cmariflora@gmail.com](cmariflora@gmail.com)
 - **Paola La Torre**
-    - Archeo&Arte3D DigiLab, Sapienza University of Rome
+    - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
     - [paola.latorre@uniroma.it](paola.latorre@uniroma.it)
 - **Roberta Manzollino**
-    - Archeo&Arte3D DigiLab, Sapienza University of Rome
+    - Archeo&Arte3D DigiLab, Sapienza University of Rome, Rome, Italy
     - [roberta.manzollino@uniroma1.it](roberta.manzollino@uniroma1.it)
  
 The aim of the paper is to explain workflows, methodologies, meanings of the 'MedAniene Project', realised through the collaborative use of Wikipedia by the association ArcheoFOSS.

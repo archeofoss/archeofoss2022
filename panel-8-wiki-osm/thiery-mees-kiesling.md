@@ -2,28 +2,28 @@
 
 **Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
 
--   **Florian Thiery**
-    -   Römisch-Germanisches Zentralmuseum, Mainz, Germany
-    -   <mailto:florian.thiery@rgzm.de>
-    -   [@fthierygeo](https://twitter.com/fthierygeo)
-    -   ORCID: [0000-0002-3246-3531](https://orcid.org/0000-0002-3246-3531)
-    -   Wikidata: [Q66606154](http://www.wikidata.org/entity/Q66606154)
-    -   GitHub: [@florianthiery](http://github.com/florianthiery)
--   **Allard Mees**
-    -   Römisch-Germanisches Zentralmuseum, Mainz, Germany
-    -   <mailto:allard.mees@rgzm.de>
-    -   ORCID: [0000-0002-7634-5342](https://orcid.org/0000-0002-7634-5342)
-    -   Wikidata: [Q88865971](http://www.wikidata.org/entity/Q88865971)
-    -   GitHub: [@AllardMees](http://github.com/AllardMees)
--   **John Brady Kiesling**
-    -   ToposText.org, Athens, Greece
-    -   <mailto:topostext@gmail.com>
-    -   ORCID: [0000-0003-3281-5741](https://orcid.org/0000-0003-3281-5741)
-    -   Wikidata: [Q4955198](http://www.wikidata.org/entity/Q4955198)
+- **Florian Thiery**
+  - Römisch-Germanisches Zentralmuseum, Mainz, Germany
+  - [florian.thiery@rgzm.de](mailto:florian.thiery@rgzm.de)
+  - [@fthierygeo](https://twitter.com/fthierygeo)
+  - ORCID: [0000-0002-3246-3531](https://orcid.org/0000-0002-3246-3531)
+  - Wikidata: [Q66606154](http://www.wikidata.org/entity/Q66606154)
+  - GitHub: [@florianthiery](http://github.com/florianthiery)
+- **Allard Mees**
+  - Römisch-Germanisches Zentralmuseum, Mainz, Germany
+  - [allard.mees@rgzm.de](mailto:allard.mees@rgzm.de)
+  - ORCID: [0000-0002-7634-5342](https://orcid.org/0000-0002-7634-5342)
+  - Wikidata: [Q88865971](http://www.wikidata.org/entity/Q88865971)
+  - GitHub: [@AllardMees](http://github.com/AllardMees)
+- **John Brady Kiesling**
+  - ToposText.org, Athens, Greece
+  - [topostext@gmail.com](mailto:topostext@gmail.com)
+  - ORCID: [0000-0003-3281-5741](https://orcid.org/0000-0003-3281-5741)
+  - Wikidata: [Q4955198](http://www.wikidata.org/entity/Q4955198)
 
 ![Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service on 19/05/2022](thiery-mees-kiesling.png)
 
-*Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service by <https://w.wiki/5BRk> and <https://w.wiki/4pKz> on 19/05/2022. CC0 (Public Domain), Wikidata Community, Wikimedia Foundation.*
+*Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service by [https://w.wiki/5BRk](https://w.wiki/5BRk) and [https://w.wiki/4pKz](https://w.wiki/4pKz) on 19/05/2022. CC0 (Public Domain), Wikidata Community, Wikimedia Foundation.*
 
 
 

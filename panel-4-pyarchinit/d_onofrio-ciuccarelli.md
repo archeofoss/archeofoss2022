@@ -3,10 +3,10 @@
 **Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
 
 - **Annalisa d’Onofrio**
-  - adArte Srl
+  - adArte Srl, Rimini, Italy
   - [anasdon@gmail.com](mailto:anasdon@gmail.com)
 - **Maria Raffaella Ciuccarelli**
-  - SABAP Ancona e Pesaro Urbino
+  - SABAP Ancona e Pesaro Urbino, Ancona, Italy
   - [mariaraffaella.ciuccarelli@beniculturali.it](mariaraffaella.ciuccarelli@beniculturali.it)
 
 ![The urban context of the roman theater and “ex Filanda” in Fano (PU)](./d_onofrio-ciuccarelli.png)

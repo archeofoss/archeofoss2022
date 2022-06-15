@@ -2,9 +2,8 @@
 
 **Panel 7**: Archaeological stratigraphy data
 
-
 - **Joe Roe**
-  - Institute of Archaeological Sciences, University of Bern
+  - Institute of Archaeological Sciences, University of Bern, Bern, Switzerland
   - [joe@joeroe.io](mailto:joe@joeroe.io)
   - [joeroe.io](https://joeroe.io)
 

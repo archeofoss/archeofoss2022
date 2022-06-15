@@ -5,7 +5,7 @@
 - **Florian Thiery**
   - Research Squirrel Engineers Network, Mainz, Germany
   - Römisch-Germanisches Zentralmuseum, Mainz, Germany
-  - <mailto:mail@fthiery.de>
+  - [mail@fthiery.de](mailto:mail@fthiery.de)
   - [@OghamFPFW](https://twitter.com/OghamFPFW)
   - [Website](https://ogham.link)
   - ORCID: [0000-0002-3246-3531](https://orcid.org/0000-0002-3246-3531)

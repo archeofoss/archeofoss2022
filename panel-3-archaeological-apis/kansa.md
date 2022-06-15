@@ -4,10 +4,10 @@
 
 
 - **Eric C. Kansa**
-  - Open Context
+  - Open Context, San Francisco, CA, USA
   - [eric@opencontext.org](mailto:eric@opencontext.org)
   - [@ekansa](https://twitter.com/ekansa)
-  - ORCID: https://orcid.org/0000-0001-5620-4764
+  - ORCID: [https://orcid.org/0000-0001-5620-4764](https://orcid.org/0000-0001-5620-4764)
 
 
 This paper describes technology sustainability issues faced in over 16 years of supporting research data management in archaeology. 

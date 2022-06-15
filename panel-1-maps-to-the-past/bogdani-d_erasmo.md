@@ -3,12 +3,14 @@
 **Panel 1**: Maps to the past. Open digital approaches to the investigation of historical maps.
 
 - **Julian Bogdani**
-  - LAD, Sapienza University of Rome, Rome
+  - LAD, Sapienza University of Rome, Rome, Italy
   - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
   - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
   - [@JulianBogdani](https://twitter.com/JulianBogdani)
+  - ORCID: [0000-0001-5250-927X](https://orcid.org/0000-0001-5250-927X)
+  - GitHub: [jbogdani](https://github.com/jbogdani/)
 - **Domizia D'Erasmo**
-  - LAD, Sapienza University of Rome, Rome
+  - LAD, Sapienza University of Rome, Rome, Italy
   - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
   - [domizia.derasmo@uniroma1.it](mailto:domizia.derasmo@uniroma1.it)
   - [@domizzzia](https://twitter.com/domizzzia)

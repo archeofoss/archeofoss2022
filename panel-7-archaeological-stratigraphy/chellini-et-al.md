@@ -3,26 +3,26 @@
 **Panel 7**: Archaeological stratigraphy data
 
 - **Giulia Chellini**
-  - Archeo&Arte3D, DigiLab - Sapienza University of Rome
-  - chellini.giulia@gmail.com
+  - Archeo&Arte3D, DigiLab - Sapienza University of Rome, Rome, Italy
+  - [chellini.giulia@gmail.com](mailto:chellini.giulia@gmail.com)
 - **Bruno Fanini**
-  - Istituto di Scienze del Patrimonio Culturale
-  - bruno.fanini@cnr.it
+  - Istituto di Scienze del Patrimonio Culturale, Rome, Italy
+  - [bruno.fanini@cnr.it](mailto:bruno.fanini@cnr.it)
 - **Leonarda Fazio**
-  - University of Palermo
-  - leonarda.fazio@unipa.it
+  - University of Palermo, Palermo, Italy
+  - [leonarda.fazio@unipa.it](mailto:leonarda.fazio@unipa.it)
 - **Maria Grazia Griffo**
-  - Archaeological Park of Lilibeo
-  - mariagrazia.griffo@regione.sicilia.it
+  - Archaeological Park of Lilibeo, Trapani, Italy
+  - [mariagrazia.griffo@regione.sicilia.it](mailto:mariagrazia.griffo@regione.sicilia.it)
 - **Mauro Lo Brutto**
-  - University of Palermo
-  - mauro.lobrutto@unipa.it
+  - University of Palermo, palermo, Italy
+  - [mauro.lobrutto@unipa.it](mailto:mauro.lobrutto@unipa.it)
 - **Saverio Giulio Malatesta**
-  - Sapienza University of Rome
-  - saveriogiulio.malatesta@uniroma1.it
+  - Sapienza University of Rome, Rome, Italy
+  - [saveriogiulio.malatesta@uniroma1.it](mailto:saveriogiulio.malatesta@uniroma1.it)
 - **Elisa Chiara Portale**
-  - University of Palermo
-  - chiara.portale@unipa.it
+  - University of Palermo, Palermo, Italy
+  - [chiara.portale@unipa.it](mailto:chiara.portale@unipa.it)
 
 The proposal aims to present the results of a project for the digital enhancement of a group of roman
 sculptures exposed into the Lilibeo Archeological Museum in Marsala. Aim of the project was define an

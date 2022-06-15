@@ -3,15 +3,15 @@
 **Panel 4**. GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case.
 
 - **Luca Mandolesi**
-  - adArte Srl
-  - luca@adarteinfo.it
+  - adArte Srl, Rimini, Italy
+  - [luca@adarteinfo.it](mailto:luca@adarteinfo.it)
 - **Roberto Montagnetti**
-  - adArte Srl
-  - robertomontagnetti@gmail.com
+  - adArte Srl, Rimini, Italy
+  - [robertomontagnetti@gmail.com](mailto:robertomontagnetti@gmail.com)
 - **David Gerald Pickle**
-  - University of Arizona
+  - University of Arizona, Arizona, USA
 - **David Soren**
-  - University of Arizona
+  - University of Arizona, Arizona, USA
 
 In this speech we will provide the full pipeline of the work in building the GIS platform of a Roman Villa, Poggio Gramignano at Lugnano in Teverina (Terni). 
 We will analize the whole process with a focus over the single moment to analize the GIS for providing data to the 3D reconstructions using pyArchInit to find out more information, and then pass it all to Blender.

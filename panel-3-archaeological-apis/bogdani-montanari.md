@@ -3,14 +3,17 @@
 **Panel 3**. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
 
 - **Julian Bogdani**
-	- Sapienza University of Rome
-	- [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
-	- [@JulianBogdani](https://twitter.com/JulianBogdani)
+  - LAD, Sapienza University of Rome, Rome, Italy
+  - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
+  - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
+  - [@JulianBogdani](https://twitter.com/JulianBogdani)
+  - ORCID: [0000-0001-5250-927X](https://orcid.org/0000-0001-5250-927X)
+  - GitHub: [jbogdani](https://github.com/jbogdani/)
 - **Marco Montanari**
-	- Open History Map, Bologna
-	- [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
-	- [@ingmmo](https://twitter.com/ingmmo)
-    - [ORCID](https://orcid.org/0000-0001-5026-6083)
+  - Open History Map, Bologna, Italy
+  - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
+  - [@ingmmo](https://twitter.com/ingmmo)
+  - ORCID: [0000-0001-5026-6083](https://orcid.org/0000-0001-5026-6083)
 
 Bradypus ia a web-based database managing system specifically addressing the specific needs of archaeological and more in general Cultural Heritage connectd projects. It was conceived in the archaeological laboratories of the University of Bologna in 2006 and released as an open-source, MIT-licensed. The latest major version, the forth, was released with AGPL-3 license and is maintained by LAD: Laboratorio di Archeologia Digitale alla Sapienza (Digital Archaeology Laboratory of Sapienza), in Rome.
 

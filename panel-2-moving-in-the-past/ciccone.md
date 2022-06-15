@@ -5,7 +5,7 @@
 
 
 - **Gabriele Ciccone**
-  - Dipartimento di Storia, Patrimonio Culturale, Formazione e Società. Università di Roma Tor Vergata
+  - Dipartimento di Storia, Patrimonio Culturale, Formazione e Società. Università di Roma Tor Vergata, Rome, Italy
   - [cccgrl01@uniroma2.it](mailto:cccgrl01@uniroma2.it)
   - [@ArchaeoDrones](https://www.instagram.com/archaeodrones/)
 

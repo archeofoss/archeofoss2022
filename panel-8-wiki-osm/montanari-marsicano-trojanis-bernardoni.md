@@ -4,17 +4,17 @@
 
 
 - **Marco Montanari**
-  - Open History Map, Bologna
+  - Open History Map, Bologna, Italy
   - [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
   - [@ingmmo](https://twitter.com/ingmmo)
 - **Lucia Marsicano**
-  - Open History Map, Bologna
+  - Open History Map, Bologna, Italy
   - [lucia.marsicano@openhistorymap.org](mailto:lucia.marsicano@openhistorymap.org)
 - **Silvia Bernardoni**
-  - Open History Map, Bologna
+  - Open History Map, Bologna, Italy
   - [silvia.bernardoni@openhistorymap.org](mailto:silvia.bernardoni@openhistorymap.org)
 - **Raffaele Trojanis**
-  - Open History Map, Bologna
+  - Open History Map, Bologna, Italy
   - [raffaele.trojanis@openhistorymap.org](mailto:raffaele.trojanis@openhistorymap.org)
 
 

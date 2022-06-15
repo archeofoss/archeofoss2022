@@ -3,7 +3,7 @@
 **Panel 1**. Maps to the past. Open digital approaches to the investigation of historical maps
 
 - **Sandra Leonardi**
-  - Dipartimento di Lettere e culture moderne, Sapienza Università di Roma
+  - Dipartimento di Lettere e culture moderne, Sapienza Università di Roma, Rome, Italy
   - [sandra.leonardi@uniroma1.it](mailto:sandra.leonardi@uniroma1.it)
 
 

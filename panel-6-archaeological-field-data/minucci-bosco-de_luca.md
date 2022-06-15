@@ -3,14 +3,14 @@
 **Panel 6**: Practice and Paradigms of Open Source Technologies for Archaeological Field Data
 
 - **Eleonora Minucci**
-  - Università degli Studi di Napoli "L'Orientale"
-  - [eminucci@unior.it]
+  - Università degli Studi di Napoli "L'Orientale", Napoli, Italy
+  - [eminucci@unior.it](mailto:eminucci@unior.it)
 - **Angela Bosco**
-  - Università degli Studi di Napoli "L'Orientale"
-  - [abosco@unior.it]
+  - Università degli Studi di Napoli "L'Orientale", Napoli, Italy
+  - [abosco@unior.it](mailto:abosco@unior.it)
 - **Daniele De Luca**
-  - VisitLab Cineca - Consorzio Interuniversitario 
-  - [d.deluca@cineca.it]
+  - VisitLab Cineca - Consorzio Interuniversitario, Napoli, Italy
+  - [d.deluca@cineca.it](mailto:d.deluca@cineca.it)
 
 
 ![minucci-bosco-de-luca_1](https://user-images.githubusercontent.com/107494137/173827626-431d7798-30dc-4e77-a004-25c38d08f073.png)

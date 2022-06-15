@@ -8,12 +8,12 @@ Electronic Publishing and Open Science in Archaeology
 
 **Authors**
 
-* **Nicolò Paraciani**
-  * ISPC, CNR
-  * [nicolo.paraciani@cnr.it](mailto:nicolo.paraciani@cnr.it)
-* **Irene Rossi**
-  * ISPC, CNR
-  * [irene.rossi@cnr.it](mailto:irene.rossi@cnr.it)
+- **Nicolò Paraciani**
+  - ISPC, CNR, Rome, Italy
+  - [nicolo.paraciani@cnr.it](mailto:nicolo.paraciani@cnr.it)
+- **Irene Rossi**
+  - ISPC, CNR, Rome, Italy
+  - [irene.rossi@cnr.it](mailto:irene.rossi@cnr.it)
 
 **Proposal text**
 

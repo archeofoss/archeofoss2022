@@ -7,10 +7,10 @@ Provide here as paragraph the name of the selected panel. The full list is avail
 
 
 - **Laura Carpentiero**
-  - Università di Napoli L’Orientale
+  - Università di Napoli L’Orientale, Napoli, Italy
   - [lcarpentiero@unior.it](mailto:lcarpentiero@unior.it)
 - **Valeria Vitale**
-  - Università di Napoli L’Orientale
+  - Università di Napoli L’Orientale, Napoli, Italy
   - [ddauria@unior.it](mailto:ddauria@unior.it)
 
 ![Operative tools for BIM in archaeology: libraries of archaeological parametric IFC objects](carpentiero-d_auria)
