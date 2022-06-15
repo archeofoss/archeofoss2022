@@ -1,12 +1,12 @@
 # Towards Bradypus v.5: Interconnecting the archaeological research
 
-Panel 3. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
+**Panel 3**. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
 
 - **Julian Bogdani**
 	- Sapienza University of Rome
 	- [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
 	- [@JulianBogdani](https://twitter.com/JulianBogdani)
-- Marco Montanari
+- **Marco Montanari**
 	- Open History Map, Bologna
 	- [marco.montanari@openhistorymap.org](mailto:marco.montanari@openhistorymap.org)
 	- [@ingmmo](https://twitter.com/ingmmo)
@@ -23,5 +23,4 @@ Bradypus v.5 aims at providing a full set of tools, enabling archaeologists not 
 
 **License**
 
-Text and image released under CC BY-ND License.
-
+This text is released under [Creative Commons Attribution (CC-BY) 4.0 Imternational](https://creativecommons.org/licenses/by/4.0/) license
