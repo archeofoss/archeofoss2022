@@ -33,7 +33,7 @@ As part of a major international project, high-resolution 3D models of the entir
 
 **Illustrative image**
 
-![minucci-bosco-de-luca_1](https://user-images.githubusercontent.com/107494137/173827626-431d7798-30dc-4e77-a004-25c38d08f073.png)
+![minucci-bosco-de-luca](minucci-bosco-de-luca.png)
 
 Screenshot of the 3D model with the Virtual Dome in Blender. © minucci-bosco-de_luca 2022
 
