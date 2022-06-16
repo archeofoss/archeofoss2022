@@ -26,7 +26,10 @@ The tools used for this workflow include:
 •	the yed  software.
 The workflow steps involve recording the relationship information in pyArchInit4, which will be processed by graphviz to generate a 'dot' file and cleaned of redundancies with a tred function. Via an xml parser, the dot file will be converted into a graphml for yed. Finally, with yed, you will open the graphml file to expand it with the swimeline function and save it as a jpg or svg file. Saving it in svg format allows you to make the matrix interactive because it keeps all information (such as attachments) in hypertext. 
 
+![output of an Harris Matrix made by pyarchint4](./cocca.jpg)
+
 
 **License**
 
 This text is released with CC BY 4.0 license. Copyright Enzo Cocca 2022
+
