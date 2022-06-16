@@ -1,24 +1,14 @@
-**Technology that Enables Rather than Distracts**
-
 # Technology that Enables Rather than Distracts: Lessons from Open Context and Sustaining Open Archaeological Data
 
-
-**Panel 3**
-
-Panel 3: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
+**Panel 3**.: I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
 
 
-**Authors**
-
-Provide an unordered list of the full name of the authors, their affiliations, their institutional email addresses, Twitter/Facebook contacts, eg.
 - **Eric C. Kansa**
-  - Open Context
+  - Open Context, San Francisco, CA, USA
   - [eric@opencontext.org](mailto:eric@opencontext.org)
   - [@ekansa](https://twitter.com/ekansa)
-  - ORCID: https://orcid.org/0000-0001-5620-4764
+  - ORCID: [https://orcid.org/0000-0001-5620-4764](https://orcid.org/0000-0001-5620-4764)
 
-
-**Proposal text**
 
 This paper describes technology sustainability issues faced in over 16 years of supporting research data management in archaeology. 
 [Open Context](https://opencontext.org/) first went online to the public Web in November of 2006. Since then, we have invested in a number of 
@@ -49,4 +39,4 @@ implement ethical frameworks, especially the [CARE Principles](https://www.gida-
 
 **License**
 
-Creative Commons Attribution (CC-BY): https://creativecommons.org/licenses/by/4.0/
+This text is released under [Creative Commons Attribution (CC-BY) 4.0 Imternational](https://creativecommons.org/licenses/by/4.0/) license

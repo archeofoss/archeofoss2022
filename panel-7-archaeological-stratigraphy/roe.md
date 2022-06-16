@@ -1,22 +1,12 @@
-**Title of the proposal**
-
 # Stratigraphic data in R
 
-
-**Name of the selected panel**
-
-Panel 7: Archaeological stratigraphy data
-
-
-**Authors**
+**Panel 7**: Archaeological stratigraphy data
 
 - **Joe Roe**
-  - Institute of Archaeological Sciences, University of Bern
+  - Institute of Archaeological Sciences, University of Bern, Bern, Switzerland
   - [joe@joeroe.io](mailto:joe@joeroe.io)
   - [joeroe.io](https://joeroe.io)
 
-
-**Proposal text**
 
 Handling stratigraphic data in R is, in a word, easy.
 Plain text data can be readily imported using its base library, and it is relatively straightforward to extend these tools to parse more complex formats such as the LST files used by BASP Harris, ArchEd and Stratify.
@@ -33,11 +23,6 @@ Extending this philosophy, recent development of stratigraphr has focused on int
 For example, we can combine these tools to describe Bayesian stratigraphic models in R using stratigraphr's implementation of the Chronological Query Language (CQL, [Bronk Ramsey 2016](https://doi.org/10.1017/S0033822200018348)), and export them to [OxCal](https://c14.arch.ox.ac.uk/oxcal.html) for fitting using [oxcAAR](https://github.com/ISAAKiel/oxcAAR).
 Apart from OxCal, all the software mentioned here is free and open source; a useful future extension to these packages would therefore be to eliminate this dependency and implement direct Bayesian inference from the stratigraphic graph, as suggested by Dye and Buck.
 
-**Illustrative image**
-
-To follow.
-
-
 **License**
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+This text is released with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Copyright Joe Roe 2022.

@@ -17,9 +17,12 @@ Provide here as paragraph the name of the selected panel. The full list is avail
 
 Provide an unordered list of the full name of the authors, their affiliations, their institutional email addresses, Twitter/Facebook contacts, eg.
 - **Julian Bogdani**
-  - Sapienza University of Rome, Rome
+  - LAD, Sapienza University of Rome, Rome, Italy
+  - [https://lad.saras.uniroma1.it](https://lad.saras.uniroma1.it)
   - [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
   - [@JulianBogdani](https://twitter.com/JulianBogdani)
+  - ORCID: [0000-0001-5250-927X](https://orcid.org/0000-0001-5250-927X)
+  - GitHub: [jbogdani](https://github.com/jbogdani/)
 - **Valeria Vitale**
   - The Alan Turing Institute, London
   - [vvitale@turing.ac.uk](mailto:vvitale@turing.ac.uk)

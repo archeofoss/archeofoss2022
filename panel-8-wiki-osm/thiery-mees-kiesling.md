@@ -1,33 +1,31 @@
-**Challenges in research community building**
-
 # Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community
 
-**Panel 8**
+**Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
 
-Panel 8 - From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
+- **Florian Thiery**
+  - Römisch-Germanisches Zentralmuseum, Mainz, Germany
+  - [florian.thiery@rgzm.de](mailto:florian.thiery@rgzm.de)
+  - [@fthierygeo](https://twitter.com/fthierygeo)
+  - ORCID: [0000-0002-3246-3531](https://orcid.org/0000-0002-3246-3531)
+  - Wikidata: [Q66606154](http://www.wikidata.org/entity/Q66606154)
+  - GitHub: [@florianthiery](http://github.com/florianthiery)
+- **Allard Mees**
+  - Römisch-Germanisches Zentralmuseum, Mainz, Germany
+  - [allard.mees@rgzm.de](mailto:allard.mees@rgzm.de)
+  - ORCID: [0000-0002-7634-5342](https://orcid.org/0000-0002-7634-5342)
+  - Wikidata: [Q88865971](http://www.wikidata.org/entity/Q88865971)
+  - GitHub: [@AllardMees](http://github.com/AllardMees)
+- **John Brady Kiesling**
+  - ToposText.org, Athens, Greece
+  - [topostext@gmail.com](mailto:topostext@gmail.com)
+  - ORCID: [0000-0003-3281-5741](https://orcid.org/0000-0003-3281-5741)
+  - Wikidata: [Q4955198](http://www.wikidata.org/entity/Q4955198)
 
-**Authors**
+![Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service on 19/05/2022](thiery-mees-kiesling.png)
 
--   **Florian Thiery**
-    -   Römisch-Germanisches Zentralmuseum, Mainz, Germany
-    -   <mailto:florian.thiery@rgzm.de>
-    -   [@fthierygeo](https://twitter.com/fthierygeo)
-    -   ORCID: [0000-0002-3246-3531](https://orcid.org/0000-0002-3246-3531)
-    -   Wikidata: [Q66606154](http://www.wikidata.org/entity/Q66606154)
-    -   GitHub: [@florianthiery](http://github.com/florianthiery)
--   **Allard Mees**
-    -   Römisch-Germanisches Zentralmuseum, Mainz, Germany
-    -   <mailto:allard.mees@rgzm.de>
-    -   ORCID: [0000-0002-7634-5342](https://orcid.org/0000-0002-7634-5342)
-    -   Wikidata: [Q88865971](http://www.wikidata.org/entity/Q88865971)
-    -   GitHub: [@AllardMees](http://github.com/AllardMees)
--   **John Brady Kiesling**
-    -   ToposText.org, Athens, Greece
-    -   <mailto:topostext@gmail.com>
-    -   ORCID: [0000-0003-3281-5741](https://orcid.org/0000-0003-3281-5741)
-    -   Wikidata: [Q4955198](http://www.wikidata.org/entity/Q4955198)
+*Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service by [https://w.wiki/5BRk](https://w.wiki/5BRk) and [https://w.wiki/4pKz](https://w.wiki/4pKz) on 19/05/2022. CC0 (Public Domain), Wikidata Community, Wikimedia Foundation.*
 
-**Proposal text**
+
 
 The [RGZM](http://www.wikidata.org/entity/Q878029) curates the Samian Research database, a treasure-house of economic data on Roman trade and Terra Sigillata industry. Over six decades, a broad European user community of established research institutions, citizen scientists and domain-specific scientists has assembled a [dataset](https://doi.org/10.5281/zenodo.4305708) of ~250’000 potter’s stamps from the [Samian Research Database](https://www.rgzm.de/samian), accessible with findspots and relevant bibliography as [Linked Open Samian Ware](https://rgzm.github.io/samian-lod/) (LOSW) via a collaborative LOD hub, [archaeology.link](https://archaeology.link).
 
@@ -41,13 +39,8 @@ Wikidata properties and items suffice for almost the full range of Roman ceramic
 
 Samian Research is, compared to other domain-specific database projects, very open concerning data curating possibilities. But in a specialised domain, can community-validated data entries safely generate new knowledge? We note Wikidata Community projects such as [Archaeology](https://www.wikidata.org/wiki/Wikidata:WikiProject_Archaeology) as an umbrella for communities and initiatives, e.g. [Linked Open Samian Ware](https://www.wikidata.org/wiki/Wikidata:WikiProject_Linked_Open_Samian_Ware), [African Red Slip Ware Digital](https://www.wikidata.org/wiki/Wikidata:WikiProject_African_Red_Slip_Ware_Digital) and [archaeology.link](https://www.wikidata.org/wiki/Wikidata:WikiProject_ArchaeologyLink) to address issues of sustainability and data consistency. A common understanding of data models and the data itself can be achieved via a WikiProject Page, where essential properties and vocabularies are described.
 
-**Image**
-
-![Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service on 19/05/2022](thiery-mees-kiesling.png)
-
-Discovery sites (left; Q102202066) and kilns (Q102202026) clustered and colored by kiln regions (right) from Wikidata, queried by the Wikidata Query Service by <https://w.wiki/5BRk> and <https://w.wiki/4pKz> on 19/05/2022. CC0 (Public Domain), Wikidata Community, Wikimedia Foundation.
 
 **Licence**
 
--   Text: CC BY 4.0, Florian Thiery, Allard Mees, Brady John Brady Kiesling
--   Image: CC0 (Public Domain), Wikidata Community, Wikimedia Foundation
+- Text: CC BY 4.0, Copyright: Florian Thiery, Allard Mees, Brady John Brady Kiesling 2022
+- Image: CC0 (Public Domain), Wikidata Community, Wikimedia Foundation

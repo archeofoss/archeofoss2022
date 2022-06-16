@@ -5,8 +5,10 @@ Panel 5. Electronic Publishing and Open Science in Archaeology.
 
 - **Alain Queffelec**
   - UMR5199 CNRS PACEA, Univ. Bordeaux, Ministère de la Culture, France
+  - [alain.queffelec@u-bordeaux.fr](mailto:alain.queffelec@u-bordeaux.fr)
 - **Marta Arzarello**
   - Sezione di ScienzePreistoriche e Antropologiche, Univ. Ferrara, Italy.
+  - [marta.arzarello@unife.it](mailto:marta.arzarello@unife.it)
 - **Ruth Blasco**
   - Institut Català de Paleoecologia Humana i Evolució Social (IPHES-CERCA), Spain
   - Departament d’Història i Història de l’Art, Univ. Rovira i Virgili, Spain
