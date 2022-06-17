@@ -41,4 +41,4 @@ If provided, provide here the name of the uploaded file, complete with copyright
 
 **License**
 
-Texts and images should be released under CC BY-ND or other equally or more permissive licenses. Provide here the exact license if different from CC BY-ND.
+Texts and images should be released under [CC BY-ND 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/) or other equally or more permissive licenses. Provide here the exact license if different from CC BY-ND.

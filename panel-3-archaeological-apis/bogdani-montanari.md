@@ -26,4 +26,4 @@ Bradypus v.5 aims at providing a full set of tools, enabling archaeologists not 
 
 **License**
 
-This text is released under [Creative Commons Attribution (CC-BY) 4.0 Imternational](https://creativecommons.org/licenses/by/4.0/) license
+This text is released under [Creative Commons Attribution (CC-BY) 4.0 Imternational](https://creativecommons.org/licenses/by/4.0/) license.

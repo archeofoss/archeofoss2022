@@ -60,4 +60,4 @@ being deposited for long term preservation and DOI assignment in [Zenodo](https:
 
 **License**
 
-Texts and image are released under CC BY-ND license. Copyright: Julian Bogdani and Domizia D'Erasmo 2022.
+Texts and image are released under [CC BY-ND 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/) license. Copyright: Julian Bogdani and Domizia D'Erasmo 2022.
