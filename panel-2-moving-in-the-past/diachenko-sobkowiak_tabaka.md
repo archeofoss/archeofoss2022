@@ -1,4 +1,4 @@
-﻿# Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers
+# Smallest-scale movement: Tracing the intra-site relocation of hunter-gatherers
 
 **Panel 2**. Moving in the past: open solutions for dataset design, spatial analysis and spatial statistical methods to investigate movement in Antiquity
 
