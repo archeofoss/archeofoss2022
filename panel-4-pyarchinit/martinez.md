@@ -66,7 +66,7 @@ interventions and finally also as a support tool for the teaching
 carried out on site regarding the excavation methodology and the use of
 information technologies in archeology.
 
-License
+**License**
 
 The text is release under CC BY 4.0 International license, copyright by
 Gianluca Martinez
