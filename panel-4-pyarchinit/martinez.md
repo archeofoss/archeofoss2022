@@ -1,9 +1,6 @@
-# Pyarchinit potential and limits in university and research context: San
-Sisto case study
+# Pyarchinit potential and limits in university and research context: San Sisto case study
 
-Panel 4: GIS open source solution for archaeological context in between
-Universities, Public Administration, societies, research center:
-pyArchInit case
+Panel 4: GIS open source solution for archaeological context in between Universities, Public Administration, societies, research center: pyArchInit case
 
 - **Gianluca Martinez**
   - Dipartimento di Civiltà e forme del sapere
