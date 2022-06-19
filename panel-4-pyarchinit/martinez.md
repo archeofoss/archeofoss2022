@@ -34,15 +34,9 @@ site of San Sisto, where through specific queries it was possible to
 highlight spatial relationships between different burials, which was the
 starting point for some degree theses still in progress.
 
-> During editing:
->
-> A first obstacle, however, arose during the elaboration of the
-> excavation plants, especially it was difficult to represent with the
-> graphic norms of the archaeological design the points where the SU are
-> cut (a hatch to indicate the point of removal), especially during the
-> edition of the phase plants. The solution adopted in this case was to
-> use a linear layer represented by a white dotted line, traced above
-> the cut section of the US
+During editing:
+
+A first obstacle, however, arose during the elaboration of the excavation plants, especially it was difficult to represent with the graphic norms of the archaeological design the points where the SU are cut (a hatch to indicate the point of removal), especially during the edition of the phase plants. The solution adopted in this case was to use a linear layer represented by a white dotted line, traced above the cut section of the US
 
 Material inventory:
 
