@@ -27,4 +27,4 @@ The project is always on the lookout for new partners as its work is far from do
 This paper aims at introducing Viabundus and its methods, as well as exploring its research potential in the context of the data being fully publicly accessible.
 
 **License**
-The text and image are released under CC BY-ND 4.0 International license, copyright by Maria Carina Dengg 2022
+The text and image are released under [CC BY-ND 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/) license. Copyright by Maria Carina Dengg 2022

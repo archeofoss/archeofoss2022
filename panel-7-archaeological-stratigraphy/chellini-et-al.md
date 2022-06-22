@@ -15,7 +15,7 @@
   - Archaeological Park of Lilibeo, Trapani, Italy
   - [mariagrazia.griffo@regione.sicilia.it](mailto:mariagrazia.griffo@regione.sicilia.it)
 - **Mauro Lo Brutto**
-  - University of Palermo, palermo, Italy
+  - University of Palermo, Palermo, Italy
   - [mauro.lobrutto@unipa.it](mailto:mauro.lobrutto@unipa.it)
 - **Saverio Giulio Malatesta**
   - Sapienza University of Rome, Rome, Italy

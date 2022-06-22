@@ -30,4 +30,4 @@ This presentation will cover the activities preparing the editathon, the process
 
 **License**
 
-This text is released with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Copyright Marco Montanari 2022.
+This text is released with [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. Copyright Marco Montanari 2022.

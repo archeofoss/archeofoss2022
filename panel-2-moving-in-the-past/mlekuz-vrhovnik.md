@@ -51,4 +51,4 @@ consider fluid, surprising, emergent forms of large-scale movement.
 
 **License**:
 
-This text is released under CC BY-ND 4.0 International license. Copyright Dimitrij Mlekuž Vrhovnik 2022
+This text is released under [CC BY-ND 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/) license. Copyright Dimitrij Mlekuž Vrhovnik 2022

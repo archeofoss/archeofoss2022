@@ -52,5 +52,5 @@ took) and only indirectly of the other places.
 
 **License**
 
-- The text is release under CC BY 4.0 International license, copyright by Gabriele Ciccone 2022
-- The image is released under CC BY-ND 4.0 International license, © Gabriele Ciccone 2022
+- The text is release under [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. Copyright by Gabriele Ciccone 2022
+- The image is released under [CC BY-ND 4.0 International](https://creativecommons.org/licenses/by-nd/4.0/) license. Copyright by Gabriele Ciccone 2022

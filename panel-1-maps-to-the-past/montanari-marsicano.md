@@ -26,4 +26,4 @@ The paper presents the tool and covers the process of gazetteer creation from a 
 
 **License**
 
-Texts and images are released under CC BY 4.0 International license.
+Texts and images are released under [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.

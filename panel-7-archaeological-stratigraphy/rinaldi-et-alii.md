@@ -28,4 +28,4 @@ At the end of the first three-years phase of the project, an interactive web map
 
 **License**
 
-Texts and images are released under CC BY-ND 4.0 Internatinal license. Copyright by Parco Archeologico del Colosseo 2022
+Texts and images are released under [CC BY-ND 4.0 Internatinal](https://creativecommons.org/licenses/by.nd/4.0/) license. Copyright by Parco Archeologico del Colosseo 2022

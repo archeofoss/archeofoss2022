@@ -25,4 +25,4 @@ Apart from OxCal, all the software mentioned here is free and open source; a use
 
 **License**
 
-This text is released with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Copyright Joe Roe 2022.
+This text is released with [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. Copyright Joe Roe 2022.

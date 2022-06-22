@@ -20,4 +20,4 @@ This paper covers the reasoning behind the proposed standard and some applicatio
 
 **License**
 
-This text is released under CC BY 4.0 International license. Copyright by Marco Montanari 2022.
+This text is released under [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license. Copyright by Marco Montanari 2022.

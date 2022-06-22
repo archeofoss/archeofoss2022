@@ -42,5 +42,5 @@ Samian Research is, compared to other domain-specific database projects, very op
 
 **Licence**
 
-- Text: CC BY 4.0, Copyright: Florian Thiery, Allard Mees, Brady John Brady Kiesling 2022
+- Text: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)), Copyright: Florian Thiery, Allard Mees, Brady John Brady Kiesling 2022
 - Image: CC0 (Public Domain), Wikidata Community, Wikimedia Foundation
