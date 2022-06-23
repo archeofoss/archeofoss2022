@@ -9,7 +9,7 @@ Provide here as paragraph the name of the selected panel. The full list is avail
 - **Laura Carpentiero**
   - Università di Napoli L’Orientale, Napoli, Italy
   - [lcarpentiero@unior.it](mailto:lcarpentiero@unior.it)
-- **Valeria Vitale**
+- **Dora D'Auria**
   - Università di Napoli L’Orientale, Napoli, Italy
   - [ddauria@unior.it](mailto:ddauria@unior.it)
 
