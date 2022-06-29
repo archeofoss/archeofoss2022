@@ -7,13 +7,13 @@
   - [bcmoody1@sheffield.ac.uk](mailto:bcmoody1@sheffield.ac.uk)
 - **Caitlin Buck**
   - School of Mathematics and Statistics, University of Sheffield, UK
-  - [Keith.May@historicengland.org.uk](mailto:Keith.May@historicengland.org.uk)
+  - [c.e.buck@sheffield.ac.uk](mailto:c.e.buck@sheffield.ac.uk)
 - **Tom Dye**
   - Department of Anthropology, University of Hawaii
-  - [c.e.buck@sheffield.ac.uk](mailto:c.e.buck@sheffield.ac.uk)
+  - [tsd@tsdye.online](mailto:tsd@tsdye.online)
 - **Keith May**
   - Historic England
-  - [tsd@tsdye.online](mailto:tsd@tsdye.online)
+  - [Keith.May@historicengland.org.uk](mailto:Keith.May@historicengland.org.uk)
 
 A key goal of archivists is ensuring that digital archaeological data are archived in a way that satisfies the FAIR principles (https://www.go-fair.org/fair-principles/). These principles ensure that the archaeological data, and especially scientific archaeological data, are Findable, Accessible, Interoperable and Reusable. Unfortunately, there is a lack of standardised software for managing and archiving relative and absolute dating evidence. Consequently, digital archaeological data that should be comparable in archives such as the Archaeology Data Service (ADS) in the UK, are inconsistent, often incomplete and, thus, are not reusable. This paper will discuss prototype software for managing and interpreting absolute and relative dating evidence, allowing FAIR archiving along the way.
 
