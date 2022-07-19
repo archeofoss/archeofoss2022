@@ -1,6 +1,6 @@
 **Open tools and technologies for analysing and sharing cultural and landscape heritage.**
 
-Panel 8.  From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
+**Panel 8**.  From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
 
 **Authors**
 
