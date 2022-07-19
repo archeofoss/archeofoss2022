@@ -1,25 +1,19 @@
 **Open tools and technologies for analysing and sharing cultural and landscape heritage.**
 
-**Panel 8**
-
-8.  From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
+Panel 8.  From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
 
 **Authors**
 
--   **Saverio Giulio Malatesta**
+- **Saverio Giulio Malatesta**
     -   Digilab University Sapienza of Rome
-    -   <mailto:saveriogiulio.malatesta@uniroma1.it>
+    -   [saveriogiulio.malatesta@uniroma1.it](mailto:saveriogiulio.malatesta@uniroma1.it)
     -   ORCID: [0000-0002-0514-3604](https://orcid.org/0000-0002-0514-3604)
-    
-**Marco Montanari**
-    -   Affiliation
-    -   <mailto: >
+- **Marco Montanari**
     -   ORCID: [0000-0001-5026-6083](https://orcid.org/0000-0001-5026-6083)
     -   GitHub: [@sirmmo](https://github.com/sirmmo)
-
-**Paolo Rosati**
+- **Paolo Rosati**
     -   Digilab University Sapienza of Rome
-    -   <mailto:paolo.rosati@uniroma1.it>
+    -   [paolo.rosati@uniroma1.it](mailto:paolo.rosati@uniroma1.it)
     -   ORCID: [0000-0003-0695-7121](https://orcid.org/0000-0003-0695-7121)
     -   GitHub: [@archeorosati](https://github.com/archeorosati)
 
