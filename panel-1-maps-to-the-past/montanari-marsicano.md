@@ -9,7 +9,7 @@
   - ORCID: [0000-0001-5026-6083](https://orcid.org/0000-0001-5026-6083)
 
 
-Textual sources and maps help us understand and contextualize the world of the past. These elements are transformed into Gazetteers for us to use and work on. The maps, in addition, can be georeferenced and warped to get a glimpse of how the perceived world of the past was, what was relevant and what not and how the world changed. For this reason we are here proposing a new methodology to merge the two operations and to make it easy for citizen scientists to work on the two parts, giving us the best of both worlds. 
+Textual sources and maps help us understand and contextualize the past. These elements are transformed into Gazetteers for us to use and work on. The maps, in addition, can be georeferenced and warped to get a glimpse of how the world was perceived in the past, what was considered relevant and what not and how the views of the world changed. For this reason we are here proposing a new methodology to merge the two operations and to make it easy for citizen scientists to work on the two parts, giving us the best of both worlds. 
 
 The OHM Places platform we are presenting unifies the approach to the attestation and positioning of the named locations from the maps by exposing a simplified API to validate names and merges the information by inferencing the additional information about the context. The match is created by name and considering the other points added as context. 
 
