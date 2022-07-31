@@ -1,16 +1,16 @@
 # Between archeology and conservation. Digital tools for digital bridges between disciplines: The risk map of the in situ mosaic and marble surfaces of the Parco Archeologico del Colosseo
 
 
-**Panel 7**. Practice and Paradigms of Open Source Technologies for Archaeological Field Data.
+**Panel 6**. Practice and Paradigms of Open Source Technologies for Archaeological Field Data.
 
 - **Federica Rinaldi**
   - Parco Archeologico del Colosseo, Rome, Italy
-  - [federica.rinaldi@beniculturali.it](mailto:federica.rinaldi@beniculturali.it)
+  - [federica.rinaldi@beniculturali.it](mailto:federica.rinaldi@cultura.gov.it)
 - **Alessandro Lugari**
   - Parco Archeologico del Colosseo, Rome, Italy
-  - [alessandro.lugari@beniculturali.it](mailto:alessandro.lugari@beniculturali.it)
+  - [alessandro.lugari@beniculturali.it](mailto:alessandro.lugari@cultura.gov.it)
 - **Francesca Sposito**
-  - Free lance cconsultant, Rome, Italy
+  - Free lance consultant, Rome, Italy
   - [francesca.sposito@gmail.com](mailto:francesca.sposito@gmail.com)
 - **Ascanio D'Andrea**
   - Free lance consultant, Rome, Italy
