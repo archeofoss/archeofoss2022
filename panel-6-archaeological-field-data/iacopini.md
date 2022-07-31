@@ -20,7 +20,7 @@ evidence, facilitating the delivery of further prescriptions.
 
 The administration system empowered by a cartographic platform The web app is equipped with a multidatation and quota management system,which allows to associate the chronology, depth from the ground level of the evidence and the type of the element (wall, floor, channel). By compiling the full set of ddatadata, the floor plans will automatically be rendered in different textures according to their chronology and typology.
 
-The Web App has been tested on the city of Ancona by archiving more than 12,000 files, relating to 159 sites. 
+The Web App has been tested on the city of Ancona by archiving more than 12,000 files, relating to 159 sites. We are currently making the software adaptable to various needs, not bound to a specific case, and made it available in Open Source mode with a MIT license.
 
 **License**
 
