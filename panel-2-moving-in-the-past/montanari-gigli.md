@@ -1,6 +1,6 @@
 # Using modern standards in the past - HTFS
 
-**Panel 1**. Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity
+**Panel 2**. Moving in the past: open solutions for data set design, spatial analysis and (spatial) statistical methods to investigate movement in Antiquity
 
 - **Marco Montanari**
   - Open History Map, Bologna, Italy
