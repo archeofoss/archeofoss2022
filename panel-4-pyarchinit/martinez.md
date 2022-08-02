@@ -4,7 +4,7 @@
 
 -  **Gianluca Martinez**
   - Dipartimento di Civiltà e forme del sapere. Università di Pisa, Pisa, Italy
-  - [g.martinez3@unipi.it](mailto:g.martinez3@unipi.it)
+  - [gianlucamartinez@hotmail.it](mailto:gianlucamartinez@hotmail.it)
 
 The adoption of Pyarchinit by the laboratory took place in the spring of
 2021 and immediately found the positive opinion of all the members of
