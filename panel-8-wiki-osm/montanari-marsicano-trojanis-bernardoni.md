@@ -1,4 +1,4 @@
-# A citizen driven approach to gazetteers
+# Tools for citizen-driven digital public history - a fireside chat
 
 **Panel 8**. From wiki projects to OpenStreetMap, collaborative approaches to open data creation: problems, case studies, territorial and cultural impact.
 
@@ -21,12 +21,13 @@
 =======
 **Proposal text**
 
-Gazetters are a great tool to help people gain and regain awareness of what is next to them, why "indigenous" people use certain terms, why these terms represent specific locations. Gazetteers help us understand our historic context. 
+This presentation will start from the activities preparing a neighborhood editathon in Bologna, the process and the current results, as the editathon will, by end of september, still be ongoing. 
 
-The OHM Places platform, presented at this same conference, is used in a long-running editathon about the city of Bologna, enabling users to interact with their neighbourhood of the past and helping to map out features of the territory that might be lost, while helping new citizens to understand the complexity of a city they have only often seen minor aspects of, coming as students, for work or for the family that moved here previously. The shared knowledge also helps gather local stories and narrative. 
+The need to create a participatory tools us to think of various ways to make public history using digital tools, and enabling people to "bring home" their results. To do that we analyzed various tools and various collections of tools from various areas. We ourselves built the OHM Places platform, presented at this same conference, but this talk wants to be an open discussion on participatory digital public history tools that can enable people in the creation of datasets, experiencing history around them and potentially contributing their knowledge to the community as well as specialized knowledge to them. 
 
-This presentation will cover the activities preparing the editathon, the process and the current results, as the editathon will be, by end of september, still ongoing. 
+Gazetters are a great tool to help people gain and regain awareness of what is next to them, why "indigenous" people use certain terms, why these terms represent specific locations. Gazetteers help us understand our historic context, but these are not the only tools. 
 
+The aim of this presentation is to look at various tools to facilitate and enhance cooperation between the citizen and the institutions, both by defining a general process as well as specific operations within a bigger picture. 
 
 **License**
 
