@@ -15,14 +15,17 @@ The OHM Places platform we are presenting unifies the approach to the attestatio
 
 The OHM Places platform transforms each document (map or text file) into a DOI via Zenodo. From this moment on each transformation is documented and tracked into a dataset stored beside the image. 
 
-When warping the map, obviously, it will be difficult to get a perfect topologic match, so a general "sensible" approach is considered and the deformation is  very outlying points are ignored and flagged to be verified. In case the points are right and their location was correctly pointed out, the gazetteer will have information about the variant in a strange location.
+When warping the map, obviously, it will be difficult to get a perfect topologic match, so a general "sensible" approach is considered, as opposed to the classic mathematical one: 
+
+1. very outlying points are ignored and flagged to be verified. 
+2. In case the points are right and their location was correctly pointed out, the gazetteer will have information about variant localizations of specific named entities.
 
 All data, cleaned up, will finally be transformed into a set of files to be used by other parties: 
 - Geographic Control Points are stored in Zenodo and Github
 - The gazetteer data is stored as CSV file and uploaded to World Historical Gazetteer
 - Every step of the process is documented via DOIs and their interconnections.
 
-The paper presents the tool and covers the process of gazetteer creation from a methodological point of view.
+The paper presents the tool and covers the process of gazetteer creation from a methodological point of view. A few demos will be shown in order to display the complexity of the presented tool and its toolchain. 
 
 **License**
 
