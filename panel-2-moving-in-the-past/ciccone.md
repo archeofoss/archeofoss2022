@@ -15,8 +15,9 @@ The area of Castronovo di Sicilia, focus of the ERC Sictransit project and of th
 off-site: new methodologies for the analysis of historical landscapes, was analyzed by integrating
 different methodologies. About the viability of the area it was decided to compare what is known,
 through the traditional written sources obtained from the Itinerarium Antonini and from the texts of
-the Arab geographer al-Idrisi, with the results of the Least-Cost Path Analysis (LCPA) carried out
-through the QGIS plug-in movecost. The analysis of traditional sources highlighted the
+the Arab geographer al-Idrisi,vectorized on map by Stangati (2010, 2013, 2014), with the results of 
+the Least-Cost Path Analysis (LCPA) carried out through the QGIS plug-in movecost, using the well known on-path Tobler's hiking function. 
+The analysis of traditional sources highlighted the
 centrality of Castronovo in ancient times, both along the main N-S route, which connected
 Palermo to Agrigento since Roman times (VIII-Item ab Agrigento Lilybeo in the Itinerarium
 Antonini), and along the E-W route, which connected the coasts of the island through one of the
@@ -30,7 +31,8 @@ Castronovo is mentioned several times with distances that separated it from othe
 Arab-Norman phase.
 
 Starting from these data, the LCP analysis was subsequently developed. The analysis was carried
-out on both at a regional and a local scale.
+out on both at a regional and a local scale,using as principal source the DTM (30-90m)
+automatically downloaded by the plugin from the NASA SRTM server.
 
 As regards the regional analysis, Palermo and Agrigento, for the N-S route and Trapani, Marsala,
 Catania and Syracuse, for the E-W route were therefore used as departure and arrival points. The
