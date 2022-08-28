@@ -1,14 +1,9 @@
-**EMdb**
-
 # EMdb: yet another db for the stratigraphic record.
 
 
-**Panel 7: Archaeological stratigraphy data**
+**Panel 7**. Archaeological stratigraphy data
 
 Archaeological stratigraphy data.
-
-
-**Authors**
 
 - **Emanuel Demetrescu**
   - Institute of Heritage Science CNR-ISPC, Rome, Italy
