@@ -1,12 +1,7 @@
-**Title of the proposal**
-
 # Harris Matrix Data Package: version 2022 of the hmdp tool with new features for the creation of stratigraphy data packages
 
-**Name of the selected panel**
 
-Archaeological stratigraphy data
-
-**Authors**
+**Panel 7**. Archaeological stratigraphy data
 
 - **Stefano Costa**
   - Soprintendenza Archeologia Belle Arti e Paesaggio per le province di Imperia e Savona, Ministero della Cultura, Genoa, Italy
@@ -15,8 +10,6 @@ Archaeological stratigraphy data
   - ORCID: [0000-0003-1124-3174](https://orcid.org/0000-0003-1124-3174)
   - GitHub: [steko](https://github.com/steko/)
   - Codeberg: [steko](https://codeberg.org/steko/)
-
-**Proposal text**
 
 The Harris Matrix Data Package is a proposed standard for
 archaeological stratigraphy data, based on the well known Data Package
