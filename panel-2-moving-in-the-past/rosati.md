@@ -1,4 +1,4 @@
-**ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis**
+# ArchaeoloGIS A QGIS processing toolbox for archaeologists spatial analysis
 
 **Panel 2**.  Moving in the past: open solutions for data set design, spatial analysis and geo-statistical methods to investigate movement in Antiquity
 
