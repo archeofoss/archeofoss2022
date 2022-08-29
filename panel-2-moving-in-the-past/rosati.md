@@ -5,8 +5,7 @@
 - **Paolo Rosati**
   - University Sapienza of Rome
   - [paolo.rosati@uniroma1.it](mailto:paolo.rosati@uniroma1.it)
-  -  ORCID: [0000-0003-0695-7121](https://orcid.org/0000-0003-0695-7121)
-  -  GitHub: [archeorosati](https://github.com/archeorosati)
+  - GitHub: [archeorosati](https://github.com/archeorosati)
 
 
 The purpose of the paper is to present the QGIS plugin ArcheoloGIS. ArcheoloGIS is a 'processing toolkit' developed in PyQgis and tested by the community of Una Quantum inc. (Italy). In the toolkit there are 3 algorithms named Tabula Peutingeriana, Eratosthenes and Darius respectively working on the Roman, Greek/Hellenistic and Persian road network. The “Tabula Peutingeriana” algorithm is the first one programmed and its principles are reflected in the others. 
