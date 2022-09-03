@@ -1,14 +1,9 @@
-**EMdb**
-
 # EMdb: yet another db for the stratigraphic record.
 
 
-**Panel 7: Archaeological stratigraphy data**
+**Panel 7**. Archaeological stratigraphy data
 
 Archaeological stratigraphy data.
-
-
-**Authors**
 
 - **Emanuel Demetrescu**
   - Institute of Heritage Science CNR-ISPC, Rome, Italy
@@ -16,16 +11,13 @@ Archaeological stratigraphy data.
   - [@zalmoxes](https://twitter.com/zalmoxes)
   - ORCID: [0000-0002-5065-7970](https://orcid.org/0000-0002-5065-7970)
   - GitHub: [zalmoxes-laran](https://github.com/zalmoxes-laran/)
-
 - **Cristina Gonzalez Esteban**
   - Oxford University
   - [cristina.ge14@gmail.com](mailto:cristina.ge14@gmail.com)
-
 - **Filippo Sala**
   - University of Pisa
   - [filippo.sala@phd.unipi.it](mailto:filippo.sala@phd.unipi.it)
   - GitHub: [filipposala91](https://github.com/filipposala91)
-
 - **Daniele Bursich**
   - University of Salerno
   - [dbursich@unisa.it](mailto:dbursich@unisa.it)
