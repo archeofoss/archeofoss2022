@@ -1,4 +1,4 @@
-# Challenges in research community building: integrating Terra Sigillata (Samian) Research into the Wikidata community
+# Linked Open ᚑᚌᚆᚐᚋ – How to publish and interlink various ᚑᚌᚆᚐᚋ data?
 
 **Panel 3**. I/O: ethics, policies and technologies for programmatic and open access to archaeological online data sets
 
@@ -15,7 +15,6 @@
 ![The hybrid Linked Open Data Ogham Workflow](thiery.png)
 
 *The hybrid Linked Open Data Ogham Workflow, Florian Thiery, Timo Homburg, Sophie C. Schmidt und Martina Trognitz, CC BY 4.0, via Wikimedia Commons*
-
 
 The [Linked Open Ogham Data Project](https://ogham.link) was set up in 2019 by the [Research Squirrel Engineers Network](https://squirrel.link) as a non-institutional funded use case which was finally supported by the Wikimedia Germany [Open Science Fellows Program](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program) in [2020/2021](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Irische_%E1%9A%91%E1%9A%8C%E1%9A%86%E1%9A%90%E1%9A%8B_(Ogham)_Steine_im_Wikimedia_Universum). It aims at providing and integrating Ogham Data in community hubs[3-5]. Ogham stones are Early Mediaeval stones inscribed with the Ogham script created between the 6th and 9th centuries AD. The texts found on Ogham Stones mostly refer to persons, tribes, or family affiliations. Since graphs rely on linking statements between entities to form a network, this corpus is especially well-suited to being represented in a graph. This results in the sense of comprehensible and FAIR data in the RDF standard and Linked Open Data (LOD). Ogham Stones are mentioned in several catalogues such as books (e.g. Corpus inscriptionum Insularum Celticarum (CIIC)[1], A Guide to Ogam[2], The Iveragh Peninsula[7]), “Online-Databases” (e.g. Celtic Inscribed Stones Project, [CISP](https://www.ucl.ac.uk/archaeology/cisp/database/)) or online repositories (e.g. [Ogham in 3D](https://ogham.celt.dias.ie)).
 
