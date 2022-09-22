@@ -13,6 +13,9 @@
   - GitHub: [@ogi-ogham](http://github.com/ogi-ogham)
 - **Peter Thiery**
   - Research Squirrel Engineers Network, Mainz, Germany
+  - [peter@squirrel.link](mailto:peter@squirrel.link)
+  - ORCID: [0000-0003-3270-2659](https://orcid.org/0000-0003-3270-2659)
+  - Wikidata: [Q114094722](http://www.wikidata.org/entity/Q114094722)
 
 ![The hybrid Linked Open Data Ogham Workflow](thiery.png)
 
