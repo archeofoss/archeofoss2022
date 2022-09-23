@@ -39,8 +39,12 @@ Wikidata properties and items suffice for almost the full range of Roman ceramic
 
 Samian Research is, compared to other domain-specific database projects, very open concerning data curating possibilities. But in a specialised domain, can community-validated data entries safely generate new knowledge? We note Wikidata Community projects such as [Archaeology](https://www.wikidata.org/wiki/Wikidata:WikiProject_Archaeology) as an umbrella for communities and initiatives, e.g. [Linked Open Samian Ware](https://www.wikidata.org/wiki/Wikidata:WikiProject_Linked_Open_Samian_Ware), [African Red Slip Ware Digital](https://www.wikidata.org/wiki/Wikidata:WikiProject_African_Red_Slip_Ware_Digital) and [archaeology.link](https://www.wikidata.org/wiki/Wikidata:WikiProject_ArchaeologyLink) to address issues of sustainability and data consistency. A common understanding of data models and the data itself can be achieved via a WikiProject Page, where essential properties and vocabularies are described.
 
-
 **Licence**
 
 - Text: [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)), Copyright: Florian Thiery, Allard Mees, Brady John Brady Kiesling 2022
 - Image: CC0 (Public Domain), Wikidata Community, Wikimedia Foundation
+
+**Slides**
+
+- DOI: 10.5281/zenodo.7105005 
+- Wikidata: Q114133679
