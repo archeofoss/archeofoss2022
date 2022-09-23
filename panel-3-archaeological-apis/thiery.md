@@ -45,4 +45,6 @@ Nevertheless, this concept and architecture causes problems in IT sustainability
 - Image: CC BY 4.0, Copyright Florian Thiery, Timo Homburg, Sophie C. Schmidt und Martina Trognitz 2022
 
 **Slides**
-[DOI: 10.5281/zenodo.7104968](https://doi.org/10.5281/zenodo.7104968)
+
+- [DOI: 10.5281/zenodo.7104968](https://doi.org/10.5281/zenodo.7104968)
+- [Wikidata: Q114134235](http://www.wikidata.org/entity/Q114134235)
